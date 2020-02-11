@@ -10,8 +10,8 @@ Recognition Challenge (ILSVRC). Over the years, since
 (2013), GoogLeNet (2014), VGGNet (2014), ResNet (2015),
 DenseNet (2016), SENet (2017). At the core of each of these
 algorithms is a Convolutional Neural Network (CNN). In addition,
-these architectures, include several optimizations to solve
-the challenges associated with object recognition, includingviewpoint
+these architectures include several optimizations to solve
+the challenges associated with object recognition, including viewpoint
 variation, scale variation, intra-class variation, image
 deformation, image occlusion, illumination conditions,
 and background clutter. Drawing inspiration from the recent
